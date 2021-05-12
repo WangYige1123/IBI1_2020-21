@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: any number between one and fifty 
+# Answer: The code is used to randomly select any number between one and fifty 
 
 # Import libraries
 # randint allows drawing a random number, 
