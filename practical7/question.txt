@@ -1,0 +1,4 @@
+What is the trend of cases in Austria over time?
+the line 24-27
+There were almost no cases between 2019-12-31 and 2020-03-04, but they 
+increased quickly after 2020-03-16.
