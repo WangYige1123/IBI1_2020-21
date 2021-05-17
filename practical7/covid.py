@@ -15,7 +15,6 @@ plt.boxplot(world_new_cases,
             meanline = True,
             whis = 1.5,
             showbox = True,
-            vert = True,
             patch_artist = True,
             notch = True)
 plt.show()
